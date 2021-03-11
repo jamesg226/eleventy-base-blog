@@ -1,5 +1,5 @@
 {
-  "title": "Your Blog Name",
+  "title": "James G",
   "url": "https://eleventy-base-blog.netlify.app/",
   "description": "I am writing about my experiences as a naval navel-gazer.",
   "feed": {
@@ -13,8 +13,8 @@
     "url": "https://eleventy-base-blog.netlify.app/feed/feed.json"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com",
+    "name": "James G",
+    "email": "rbtjg148@leedstrinity.ac.uk",
     "url": "https://eleventy-base-blog.netlify.app/about-me/"
   }
 }
